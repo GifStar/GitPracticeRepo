@@ -1,0 +1,9 @@
+Why did the integer sink?
+It wasn't floating.
+
+Why was the string so loud?
+It was immutable.
+
+Why does Python live on land?
+It's above C level.
+
